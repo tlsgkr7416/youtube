@@ -1,0 +1,28 @@
+.navContainer{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    display:flex;
+    align-items: center;
+}
+
+.navContainer li {
+    list-style-type: none;
+    margin-left: 15px;
+}
+
+.logo{
+    width: 30px;
+    height: 40px;
+}
+
+.name{
+    color: white;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 6px;
+}
+
+.form{
+    height: 100%;
+}

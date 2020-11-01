@@ -1,0 +1,12 @@
+.container{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.underContainer{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    column-gap: 10px;
+}
+
+
